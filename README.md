@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Developing new project
 - 📫 Thanks for visiting my Profile
 <div align="center" style="margin: 40px 0">
-    <a href="https://github.com/topdev0729/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=topdeveloper0729&color=DE002D">
+    <a href="https://github.com/Dev-1102/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=Dev-1102&color=DE002D">
     </a>
 </div>
 
