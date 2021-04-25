@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @Dev-1102
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Website and Mobile app development
+- 🌱 I’m currently learning New skills continue
+- 💞️ I’m looking to collaborate on Developing new project
+- 📫 Thanks for visiting my Profile
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/topdev0729/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=topdeveloper0729&color=DE002D">
+    </a>
+</div>
 
 <table><tr>
     <td valign="top" width="50%">
